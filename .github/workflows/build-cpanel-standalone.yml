@@ -7,7 +7,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      NODE_ENV: production
       CONTENT_STORAGE: file
       NEXT_TELEMETRY_DISABLED: "1"
       NEXT_PUBLIC_SANITY_PROJECT_ID: ${{ secrets.NEXT_PUBLIC_SANITY_PROJECT_ID }}
@@ -24,9 +23,11 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        run: npm ci --include=dev
 
       - name: Build production app
+        env:
+          NODE_ENV: production
         run: npm run build:cpanel
 
       - name: Prepare cPanel artifact
