@@ -27,7 +27,7 @@ jobs:
         run: npm ci
 
       - name: Build production app
-        run: npm run build
+        run: npm run build:cpanel
 
       - name: Prepare cPanel artifact
         run: npm run package:cpanel:standalone
