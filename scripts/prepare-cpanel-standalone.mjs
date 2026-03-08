@@ -9,6 +9,7 @@ const staticDir = path.join(nextDir, "static");
 const publicDir = path.join(rootDir, "public");
 const dataDir = path.join(rootDir, "data");
 const deployDir = path.join(rootDir, ".cpanel-deploy");
+const deployStandaloneDir = path.join(deployDir, ".next", "standalone");
 
 async function copyIfExists(source, destination) {
   try {
@@ -35,9 +36,10 @@ async function main() {
   await fs.mkdir(deployDir, { recursive: true });
 
   await copyIfExists(path.join(rootDir, "server.js"), path.join(deployDir, "server.js"));
-  await copyIfExists(standaloneDir, path.join(deployDir, ".next", "standalone"));
-  await copyIfExists(staticDir, path.join(deployDir, ".next", "static"));
-  await copyIfExists(publicDir, path.join(deployDir, "public"));
+  await copyIfExists(standaloneDir, deployStandaloneDir);
+  // Next standalone expects static assets inside the standalone folder.
+  await copyIfExists(staticDir, path.join(deployStandaloneDir, ".next", "static"));
+  await copyIfExists(publicDir, path.join(deployStandaloneDir, "public"));
   await copyIfExists(dataDir, path.join(deployDir, "data"));
   await copyIfExists(path.join(rootDir, ".env.example"), path.join(deployDir, ".env.example"));
   await copyIfExists(path.join(rootDir, "README.md"), path.join(deployDir, "README.md"));
