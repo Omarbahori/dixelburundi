@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+  <defs>
+    <linearGradient id="w" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="rgba(255,255,255,0.04)"/>
+      <stop offset="1" stop-color="rgba(255,255,255,0.10)"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1100" fill="#22201E"/>
+  <rect x="120" y="160" width="1360" height="780" rx="56" fill="url(#w)" stroke="rgba(255,255,255,0.12)"/>
+  <path d="M120 280H1480" stroke="rgba(255,255,255,0.10)" stroke-width="2"/>
+  <circle cx="220" cy="220" r="10" fill="#E22228"/>
+  <circle cx="250" cy="220" r="10" fill="rgba(255,255,255,0.20)"/>
+  <circle cx="280" cy="220" r="10" fill="rgba(255,255,255,0.10)"/>
+  <path d="M220 380h560" stroke="rgba(255,255,255,0.18)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M220 430h420" stroke="rgba(255,255,255,0.12)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M220 480h620" stroke="rgba(255,255,255,0.12)" stroke-width="14" stroke-linecap="round"/>
+  <text x="220" y="760" fill="rgba(255,255,255,0.78)" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="22" letter-spacing="3">WEB BUILD</text>
+</svg>
+

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+  <rect width="1600" height="1100" fill="#22201E"/>
+  <rect x="130" y="140" width="1340" height="820" rx="48" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)"/>
+  <path d="M130 420H1470" stroke="rgba(255,255,255,0.10)" stroke-width="2"/>
+  <circle cx="320" cy="310" r="18" fill="#E22228"/>
+  <circle cx="380" cy="310" r="18" fill="rgba(255,255,255,0.22)"/>
+  <circle cx="440" cy="310" r="18" fill="rgba(255,255,255,0.10)"/>
+  <text x="210" y="600" fill="#F6F8F5" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="64" letter-spacing="-2">VISUAL SET</text>
+  <text x="210" y="660" fill="rgba(255,255,255,0.70)" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" letter-spacing="2">PHOTO / DESIGN</text>
+</svg>
+

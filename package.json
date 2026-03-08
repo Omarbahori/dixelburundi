@@ -1,0 +1,41 @@
+{
+  "name": "dixel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/block-dev.mjs",
+    "dev:local": "next dev",
+    "build": "next build --webpack",
+    "build:cpanel": "node scripts/run-host-safe-command.mjs build",
+    "package:cpanel:standalone": "node scripts/prepare-cpanel-standalone.mjs",
+    "build:linux-artifact": "npm run build && npm run package:cpanel:standalone",
+    "postinstall": "node scripts/patch-tailwind-node.mjs",
+    "start": "node server.js",
+    "gen:admin": "node scripts/gen-admin-hash.mjs",
+    "lint": "eslint",
+    "db:generate": "node scripts/block-prisma.mjs",
+    "db:push": "node scripts/block-prisma.mjs",
+    "db:studio:local": "node scripts/block-prisma.mjs"
+  },
+  "dependencies": {
+    "@sanity/image-url": "^2.0.3",
+    "bcryptjs": "^3.0.3",
+    "framer-motion": "^12.34.0",
+    "next": "16.1.6",
+    "next-sanity": "^12.1.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "sanity": "^5.12.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "ffmpeg-static": "^5.3.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

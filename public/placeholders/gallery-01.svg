@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+  <rect width="1600" height="1100" fill="#1B1917"/>
+  <circle cx="420" cy="380" r="280" fill="rgba(132,189,0,0.18)"/>
+  <circle cx="1180" cy="540" r="340" fill="rgba(255,255,255,0.08)"/>
+  <path d="M220 820h1160" stroke="rgba(255,255,255,0.14)" stroke-width="2"/>
+  <text x="220" y="860" fill="rgba(255,255,255,0.72)" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="22" letter-spacing="3">GALLERY</text>
+</svg>
+

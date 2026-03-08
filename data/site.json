@@ -1,0 +1,506 @@
+{
+  "settings": {
+    "brandName": "DIXEL",
+    "tagline": "Be Visible. Be Digital.",
+    "contact": {
+      "email": "info@dixelburundi.com",
+      "phone": "+257 62 005 002",
+      "whatsappNumber": "25762005002",
+      "whatsappPrefill": "Hello DIXEL, I would like to request a quote.",
+      "location": "Burundi (Bujumbura)"
+    },
+    "socials": {
+      "instagram": "https://www.instagram.com/",
+      "behance": "https://www.behance.net/",
+      "linkedin": "https://www.linkedin.com/"
+    },
+    "footer": {
+      "backgroundImage": "/uploads/1772042152069-c1a0c222b1d5fa2b.jpg"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "DIGITAL MARKETING & CREATIVE AGENCY",
+      "headline": "Be Visible.",
+      "highlight": "Be Digital",
+      "subheadline": "DIXEL is a creative agency based in Burundi. We help businesses grow by making sure people see them, recognize them, and remember them online and offline.",
+      "ctaPrimary": {
+        "label": "View Work",
+        "href": "/work"
+      },
+      "ctaSecondary": {
+        "label": "WhatsApp",
+        "href": "https://wa.me/+25762005002?text=Hi%20DIXEL%2C%20I'd%20like%20to%20request%20a%20quote."
+      },
+      "backgroundImage": "/uploads/1770712247793-0e8f09eda9b5b600.jpg"
+    },
+    "pillars": [
+      {
+        "title": "Visibility",
+        "text": "If people can't see you, they can't support you. We make your brand stand out."
+      },
+      {
+        "title": "Creativity",
+        "text": "Premium visuals and stories that feel consistent across every channel."
+      },
+      {
+        "title": "Results",
+        "text": "Strategy, campaigns, and optimization focused on real growth."
+      }
+    ],
+    "bigCta": {
+      "eyebrow": "READY TO BE VISIBLE?",
+      "headline": "Let's make your brand impossible to ignore.",
+      "subheadline": "Tell us what you need. We will create clear visuals and marketing that help your business grow.",
+      "primary": {
+        "label": "Request a quote",
+        "href": "/contact"
+      },
+      "secondary": {
+        "label": "See case studies",
+        "href": "/work"
+      },
+      "backgroundImage": ""
+    },
+    "featuredWork": {
+      "backgroundImage": ""
+    },
+    "servicesSection": {
+      "backgroundImage": "/uploads/1771263768529-2c46a86595114e2e.jpg"
+    },
+    "testimonialsSection": {
+      "backgroundImage": "/uploads/1772042123564-1a861239fc9df707.jpg"
+    },
+    "sharedBackgroundPool": [
+      "/uploads/1771685512454-a01389e9e099dccd.mp4",
+      "/uploads/1771697399635-7734aa6f048ec415.mp4",
+      "/uploads/1771697408539-34173ef29dff9e3b.jpg",
+      "/uploads/1771697963822-2ef364ea1e2b63cf.mp4"
+    ]
+  },
+  "clients": [
+    {
+      "name": "Gasape",
+      "industry": "Brand",
+      "logo": "/uploads/1771259663549-4b801da5dd244571.png"
+    },
+    {
+      "name": "KCB Bank Burundi",
+      "industry": "Banking",
+      "logo": "/uploads/1771258945528-77fbbf0f197442fd.png"
+    },
+    {
+      "name": "Ordre des Avocats de Bujumbura",
+      "industry": "Legal",
+      "logo": "/uploads/1771260042213-2ae8bebfd1c02c51.png"
+    },
+    {
+      "name": "All Star Hotel",
+      "industry": "Hospitality",
+      "logo": "/uploads/1771260012309-be7c3333ed182661.png"
+    },
+    {
+      "name": "Bic Vie s.a.",
+      "industry": "Assurance Company",
+      "logo": "/uploads/1771260304176-9950fb2e918feaf1.png"
+    },
+    {
+      "name": "Martha Hotel",
+      "industry": "Hotel",
+      "logo": "/uploads/1771263053509-b5c9935abe76ed41.png"
+    },
+    {
+      "name": "KCB SAHL BBANKING",
+      "industry": "Banking",
+      "logo": "/uploads/1771786107130-918a27a8ce426e76.png"
+    },
+    {
+      "name": "USTREAM ZONE",
+      "industry": "Trade",
+      "logo": "/uploads/1771786342337-5cffafcf3471aa88.png"
+    },
+    {
+      "name": "EAST PAY",
+      "industry": "Trade",
+      "logo": "/uploads/1771787214292-1522d014cd5f9072.png"
+    },
+    {
+      "name": "ÇORILAC MICROFINANCE",
+      "industry": "Banking",
+      "logo": "/uploads/1771787618322-01e131117905fe61.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Amandine Igiraneza",
+      "title": "Managing Director",
+      "company": "ALL STARS HOTEL",
+      "quote": "DIXEL helped us look more professional. Our brand now feels clear and consistent, and our campaigns perform better.",
+      "image": "/uploads/1772273347478-76156c5fc894e8ea.png"
+    },
+    {
+      "name": "Masika Mukule",
+      "title": "Managing Director",
+      "company": "KCB Bank Burundi",
+      "quote": "The team is fast, reliable, and easy to work with. They deliver quality work and keep communication clear.",
+      "image": "/uploads/1772278777757-b961abbab5596142.jpg"
+    },
+    {
+      "name": "Pery Saxe Gateka",
+      "title": "Founder",
+      "company": "Gasape",
+      "quote": "Working with DIXEL was simple and smooth. We got great visuals and a content plan that we can keep using.",
+      "image": "/uploads/1772273308810-ce29817dae868486.jpg"
+    }
+  ],
+  "services": [
+    {
+      "id": "branding",
+      "title": "Branding & Identity Development",
+      "summary": "We help your brand look clear, professional, and easy to remember.",
+      "icon": "spark",
+      "inclusions": [
+        "Logo and visual style",
+        "Brand colors and fonts",
+        "Simple brand guide"
+      ]
+    },
+    {
+      "id": "photo-video",
+      "title": "Photography & Videography",
+      "summary": "We create photos and videos that make your business look its best.",
+      "icon": "camera",
+      "inclusions": [
+        "Product and team photos",
+        "Short promo videos",
+        "Event coverage"
+      ]
+    },
+    {
+      "id": "graphic-design",
+      "title": "Graphic Design",
+      "summary": "We design marketing visuals that get attention and build trust.",
+      "icon": "layers",
+      "inclusions": [
+        "Social media designs",
+        "Posters and flyers",
+        "Business print materials"
+      ]
+    },
+    {
+      "id": "social",
+      "title": "Social Media Management",
+      "summary": "We manage your social pages so you stay active and visible.",
+      "icon": "megaphone",
+      "inclusions": [
+        "Content planning and posting",
+        "Community replies",
+        "Simple monthly report"
+      ]
+    },
+    {
+      "id": "digital-marketing",
+      "title": "Digital Marketing",
+      "summary": "We run ads that help you reach more people and get more customers.",
+      "icon": "chart",
+      "inclusions": [
+        "Facebook and Instagram ads",
+        "Google ads",
+        "Clear performance updates"
+      ]
+    },
+    {
+      "id": "web-seo",
+      "title": "Website Design & SEO",
+      "summary": "We build websites that look professional and help people find you online.",
+      "icon": "globe",
+      "inclusions": [
+        "Website design and build",
+        "Mobile-friendly pages",
+        "Basic SEO setup"
+      ]
+    }
+  ],
+  "packages": [
+    {
+      "id": "starter",
+      "name": "Starter",
+      "priceNote": "From 500000 Fbu / month",
+      "bestFor": "New brands that need consistent design output.",
+      "includes": [
+        "12 social posts",
+        "Unlimited Revisions",
+        "1 Active Requests",
+        "24h turnaround",
+        "Free Stock Images",
+        "Includes Print Ready & Digital Designs"
+      ],
+      "monthlyPriceFbu": 500000
+    },
+    {
+      "id": "growth",
+      "name": "Growth",
+      "priceNote": "From 750000 Fbu/ month",
+      "bestFor": "Campaign-ready brands shipping weekly content.",
+      "includes": [
+        "15 social posts",
+        "4 reels edits",
+        "1 on-site shoot (half day)",
+        "Unlimited Revisions",
+        "Dedicated Project Manager",
+        "1 Active Requests",
+        "24h turnaround",
+        "Free Stock Images",
+        "Includes Print Ready & Digital Designs",
+        "Monthly performance report"
+      ],
+      "monthlyPriceFbu": 750000
+    },
+    {
+      "id": "signature",
+      "name": "Signature",
+      "priceNote": "Custom quote",
+      "bestFor": "Founder-led brands that want end-to-end creative operations.",
+      "includes": [
+        "Strategy sprint",
+        "Full content production",
+        "Paid ad creatives",
+        "Priority support + rapid iterations"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "burundi-leg",
+      "title": "RALLYE 2025",
+      "category": "Photo",
+      "year": "2025",
+      "tagline": "Rallye",
+      "brief": "Rallye",
+      "deliverables": [
+        "Jpg"
+      ],
+      "tools": [
+        "Ps"
+      ],
+      "results": [
+        "Jpg"
+      ],
+      "coverImage": "/uploads/1771268434970-7ce879681385b8eb.jpg",
+      "gallery": [
+        "/uploads/1771268460261-2e82b88007674ffd.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "oktoberfest",
+      "title": "OKTOBERFEST",
+      "category": "Design",
+      "year": "2024",
+      "tagline": "Concert",
+      "brief": "Oktober Festival",
+      "deliverables": [
+        "JPG"
+      ],
+      "tools": [
+        "Ps"
+      ],
+      "results": [
+        "Jpg"
+      ],
+      "coverImage": "/uploads/1771266811006-6adf140fbb8a68b5.jpg",
+      "gallery": [
+        "/uploads/1771266827649-6be355840d23c6f2.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "bic",
+      "title": "Assurance Bic Vie",
+      "category": "Design",
+      "year": "2026",
+      "tagline": "Bic Vie",
+      "brief": "BIC",
+      "deliverables": [
+        "JPG"
+      ],
+      "tools": [
+        "Ps"
+      ],
+      "results": [
+        "JPG"
+      ],
+      "coverImage": "/uploads/1771266435393-6e4ac1839de8c997.jpg",
+      "gallery": [
+        "/uploads/1771266409135-b11e3bf27de9c245.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "iptv",
+      "title": "USTREAM Burundi",
+      "category": "Design",
+      "year": "2025",
+      "tagline": "IPTV",
+      "brief": "...",
+      "deliverables": [
+        "JPG"
+      ],
+      "tools": [
+        "Adobe Photoshop"
+      ],
+      "results": [
+        "JPG"
+      ],
+      "coverImage": "/uploads/1771266166266-647f043aacebf338.jpg",
+      "gallery": [
+        "/uploads/1771266205616-8b79f1514b3125cc.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "banking",
+      "title": "KCB Bank",
+      "category": "Design",
+      "year": "2025",
+      "tagline": "KCB",
+      "brief": ".....",
+      "deliverables": [
+        "Jpg"
+      ],
+      "tools": [
+        "Adobe Photoshop"
+      ],
+      "results": [
+        "facebook"
+      ],
+      "coverImage": "/uploads/1771265889865-f27388302513111f.jpg",
+      "gallery": [
+        "/uploads/1771265912365-a5b00c6561181675.jpg"
+      ],
+      "featured": false
+    }
+  ],
+  "team": {
+    "eyebrow": "DIXEL LEGENDS",
+    "title": "The people behind the pixels.",
+    "subtitle": "A friendly team helping brands look better, reach people, and grow.",
+    "backgroundImage": "/uploads/1771863654576-dd480fbdd9e27f5c.jpg",
+    "members": [
+      {
+        "id": "omar-bahori",
+        "name": "Omar Bahori",
+        "role": "Graphics Designer",
+        "bio": "Omar creates clean visual designs that help brands look professional and stand out.",
+        "image": "/uploads/1771316229502-fdb63a8094795172.jpg",
+        "video": "/uploads/1771664556542-ea191b4af8b4619d.mp4"
+      },
+      {
+        "id": "niyubuntu-blaise",
+        "name": "Niyubuntu Blaise",
+        "role": "Photographer",
+        "bio": "Blaise captures photos that highlight your products, people, and brand story.",
+        "image": "/uploads/1771316248370-0a54c9c4658f0120.jpg",
+        "video": "/uploads/1771664595593-b43e4c6b3dfb02e2.mp4"
+      },
+      {
+        "id": "mukiza-doina",
+        "name": "Mukiza Doina",
+        "role": "Customer Care",
+        "bio": "Doina supports clients, answers questions, and keeps communication smooth.",
+        "image": "/uploads/1771316265470-8f04a6d5ccef482b.jpg",
+        "video": "/uploads/1771664608930-1feb6a29727b8502.mp4"
+      },
+      {
+        "id": "pacifique",
+        "name": "Ndamushinzimana Pacifique",
+        "role": "Production Assistant",
+        "bio": "Pacifique supports shoots and keeps production days organized and on track.",
+        "image": "/uploads/1771316450197-c1440c3d553a9d00.jpg",
+        "video": "/uploads/1771664622801-78eaec8689ae2f2f.mp4"
+      },
+      {
+        "id": "ninziza-saleh",
+        "name": "Ninziza Saleh",
+        "role": "Photographer",
+        "bio": "Saleh creates strong photo content for campaigns, events, and social media.",
+        "image": "/uploads/1771316488583-52aa978c0915e46a.jpg",
+        "video": "/uploads/1771664647252-57931fc423795084.mp4"
+      },
+      {
+        "id": "queen-rhania",
+        "name": "Queen Rhania",
+        "role": "Graphics Designer",
+        "bio": "Rhania designs visuals for digital and print so your brand stays consistent.",
+        "image": "/uploads/1772131282256-8d58a3c4f7028da4.jpg",
+        "video": "/uploads/1772132371566-43eb4c94ac31c199.mp4"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "OUR STORY",
+    "title": "We help businesses look better and grow.",
+    "intro": [
+      "DIXEL is a creative agency based in Burundi.",
+      "We help startups and companies stand out with clear visuals and strong marketing."
+    ],
+    "vision": "To be a trusted creative partner for businesses that want to grow.",
+    "mission": "To help businesses look professional, reach more people, and win more customers.",
+    "howWeWork": [
+      {
+        "title": "Understand your goals",
+        "text": "We learn about your business, your audience, and what success looks like."
+      },
+      {
+        "title": "Plan together",
+        "text": "We agree on clear priorities and a simple action plan."
+      },
+      {
+        "title": "Create your visuals",
+        "text": "We design content that fits your brand and speaks to your audience."
+      },
+      {
+        "title": "Launch and share",
+        "text": "We publish your content in the right places for better visibility."
+      },
+      {
+        "title": "Improve over time",
+        "text": "We review results and keep improving what works best."
+      }
+    ],
+    "tools": [
+      {
+        "name": "Adobe Photoshop"
+      },
+      {
+        "name": "Adobe Illustrator"
+      },
+      {
+        "name": "Premiere Pro"
+      },
+      {
+        "name": "After Effects"
+      },
+      {
+        "name": "Visual Studio Code",
+        "logo": "/uploads/1772034647365-c72780af352bf13a.jpg"
+      },
+      {
+        "name": "Figma",
+        "logo": "/uploads/1772033466109-20caa605d06292d9.png"
+      },
+      {
+        "name": "Google Ads",
+        "logo": "/uploads/1772033387012-af379fa71f313700.jpg"
+      },
+      {
+        "name": "Meta Ads Manager",
+        "logo": "/uploads/1772033994902-9f40c7719a7077a1.png"
+      },
+      {
+        "name": "More",
+        "logo": "/uploads/1772035244530-50210c980f69684f.jpg"
+      }
+    ]
+  }
+}
